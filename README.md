@@ -1,5 +1,5 @@
 # SurvivalShooterVR (January 2019)
-Survival Shooter game made in Unity for HTC Vive VR.
+Survival Shooter game made in Unity for HTC Vive VR. 3D models downloaded from Unity Asset Store.
 
 ## Project Description
 
