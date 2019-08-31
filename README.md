@@ -12,3 +12,7 @@ The player is equipped with a sword and a pistol. Killing enemies with the pisto
 When the sword is fully charged, it can be plundged in the ground to send a nova around the player which kills all enemies.
 
 ![](SurvivalShooterVR.gif)
+
+## How-to
+
+After downloading the build, make sure to go in Build/ and Extract DSRV_Data.7z (Extract here), before running DSRV.exe
