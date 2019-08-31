@@ -3,4 +3,10 @@ Survival Shooter game made in Unity for HTC Vive VR.
 
 ## Project Description
 
+The purpose of the game is to stay alive while scoring as many points as possible. 
+
+The player is equipped with a sword and a pistol. Killing enemies with the pistol charges the sword. 
+
+When the sword is fully charged, it can be plundged in the ground to send a nova around the player which kills all enemies.
+
 ![](SurvivalShooterVR.gif)
