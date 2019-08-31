@@ -13,6 +13,6 @@ When the sword is fully charged, it can be plundged in the ground to send a nova
 
 ![](SurvivalShooterVR.gif)
 
-## How-to
+## Play the build
 
 After downloading the build, make sure to go in Build/ and Extract DSRV_Data.7z (Extract here), before running DSRV.exe
